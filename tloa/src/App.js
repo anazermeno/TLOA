@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Sidemenu from './components/sidemenu';
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        <Sidemenu></Sidemenu>
       </header>
     </div>
   );
