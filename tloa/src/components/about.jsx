@@ -8,8 +8,8 @@ export default class About extends Component{
                 <head>
 
                 </head>
-                <body>
-                    
+                <body id="body_about">
+                    <h1>Welcome to my page!</h1>
                 </body>
             </html>
         )

@@ -9,9 +9,9 @@ export default class Sidemenu extends Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1"/>
                     <link rel="stylesheet" type="text/css" href="./styles.css"/>
                 </head>
-                <body id="body">
+                <body id="body_navbar">
                     <div class="sidenav">
-                        <a href="#">About</a><br/>
+                        <a href="../App.js">About</a><br/>
                         <a href="#">Projects</a><br/>
                         <a href="#">Resources</a><br/>
                         <a href="#">Gallery</a><br/>
