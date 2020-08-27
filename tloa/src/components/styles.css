@@ -11,10 +11,11 @@
      background-color: lavender;
      overflow-x: hidden;
      padding-top: 20 px;
+     padding-right: 60px;
  }
 
  .sidenav a{
-     padding: 6px 6px 6px 32px;
+     padding: 6px 6px 6px 20px;
      text-decoration: none;
      font-size: 25px;
      color: #818181;
