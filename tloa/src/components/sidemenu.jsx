@@ -11,7 +11,7 @@ export default class Sidemenu extends Component {
                 </head>
                 <body id="body_navbar">
                     <div class="sidenav">
-                        <a href="../App.js">About</a><br/>
+                        <a href="#">About</a><br/>
                         <a href="#">Projects</a><br/>
                         <a href="#">Resources</a><br/>
                         <a href="#">Gallery</a><br/>
