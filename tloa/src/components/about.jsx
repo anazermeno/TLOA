@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './styles.css';
-import profilepic from './media/profilepic.jpeg'
+import profilepic from './media/profilepic.jpeg';
 
 
 export default class About extends Component{
