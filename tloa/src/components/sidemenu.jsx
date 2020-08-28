@@ -4,7 +4,7 @@ import './styles.css';
 export default class Sidemenu extends Component {
     render () {
         return (
-            <html>
+            <div>
                 <head>
                     <meta name="viewport" content="width=device-width, initial-scale=1"/>
                     <link rel="stylesheet" type="text/css" href="./styles.css"/>
@@ -17,7 +17,7 @@ export default class Sidemenu extends Component {
                         <a href="#">Gallery</a><br/>
                     </div>
                 </body>
-            </html>
+            </div>
         )
     }
 }
