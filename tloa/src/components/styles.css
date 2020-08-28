@@ -3,8 +3,16 @@
 }
 
 #body_about {
-    
+    padding-left: 220px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+#img_about {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 320px;
+    width: 310px;
 }
 
 h1 {
